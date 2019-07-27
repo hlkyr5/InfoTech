@@ -14,5 +14,5 @@ Merriam Webster defines information technology as:
 This definition might be a little hard to wrap your mind around because it sounds so broad. But the truth is that the industry is incredibly broad! There are so many avenues to take with information technology because everyone uses it. Let's take a closer look in to 3 specific areas of this vast field. 
 
 > * [Software](<https://github.com/hlkyr5/InfoTech/blob/master/Software.md>)
-> * [Digital Media Production]()
+> * [Digital Media Production](https://github.com/hlkyr5/InfoTech/blob/master/Digital%20Media.md)
 > * [Systems Administration]() 
